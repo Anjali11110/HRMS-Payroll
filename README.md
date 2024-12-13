@@ -13,3 +13,4 @@ Note:- folder structure should be same
 # database:- postgree sql
 1) download postgree sql
 2) create database hrmsdb
+3) in application.properties file edit the password and username accordingly.
